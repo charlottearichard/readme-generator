@@ -29,3 +29,5 @@ This generator runs on JavaScript, Node, Inquirer NPM, and in the root command l
 
 <img width="1680" alt="Screen Shot 2022-06-15 at 5 01 39 PM" src="https://user-images.githubusercontent.com/101064266/173930626-ef2989e2-d460-4682-8d20-74a2d17f5214.png">
 
+## Video 
+https://youtu.be/wN3ZT1X-OSY
